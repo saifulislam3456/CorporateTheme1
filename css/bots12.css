@@ -1,0 +1,36 @@
+
+
+
+
+section#banner {
+    background: linear-gradient(to left, #000000bf, #0000002e),url(../img/desktop-laptop-workspace.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.hedding {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    /* text-align: center; */
+    width: 100%;
+}
+
+#contact p{
+    padding: 0;
+    margin: 0;
+}
+
+#navigration li{
+    font-size: 1.2rem !important;
+    font-weight: bold;
+}
+
+#navigration h1{
+    font-size: 2.5rem !important;
+    font-weight: bold;
+}
